@@ -1,6 +1,6 @@
 # cli_email_marketing
 
-A bash command line app to email marketing campaigns. 
+A bash command line tool to send email marketing campaigns. 
 The project uses a local Postfix SMTP implementation (in a baremetal ou VPS server) and the Mutt email client to send campaigns and handle bounced responses.
 
 FEATURES:
