@@ -1,7 +1,7 @@
 # cli_email_marketing
 
 A bash command line app to email marketing campaigns. 
-The project uses a local Postfix SMTP implementation and the Mutt email client to send campaigns and handle bounced responses.
+The project uses a local Postfix SMTP implementation (in a baremetal ou VPS server) and the Mutt email client to send campaigns and handle bounced responses.
 
 FEATURES:
 - Very light and powerful - It is capable of sending and processing +1mm of messages per day when implementd with a 1vCPU VPS and 2Gb of RAM.
